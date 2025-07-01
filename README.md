@@ -2,7 +2,7 @@
 
 Sou Assistente de TI na Qualiport, graduado em Análise e Desenvolvimento de Sistemas e desenvolvedor Full Stack em formação — com foco em Java no back-end e Angular no front-end. Atualmente estudo Java pela Fuctura Tecnologia (Recife) e pelo programa ONE (Oracle Next Education), em parceria com a Alura.
 
-<img src="https://lottie.host/3c8d3b2f-4a4e-4e2d-9d5e-6e9e3f3f3f3f/estudando.gif" width="400"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 ---
 
@@ -25,7 +25,7 @@ Sou Assistente de TI na Qualiport, graduado em Análise e Desenvolvimento de Sis
 
 ---
 
-### 📬 Entre em contato comigo:
+### 📬 Entre em contato comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhuan-lima)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhuansolima@gmail.com)
