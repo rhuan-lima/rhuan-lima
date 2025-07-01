@@ -1,12 +1,17 @@
-## 👋 Bem-vindo(a) ao meu perfil!
+## 👋 Olá! Eu sou o Rhuan Lima
 
-Sou Rhuan Lima, Assistente de TI na Qualiport, graduado em Análise e Desenvolvimento de Sistemas, e desenvolvedor Full Stack em formação — com foco em Java e back-end.
+Sou Assistente de TI na Qualiport, graduado em Análise e Desenvolvimento de Sistemas e desenvolvedor Full Stack em formação — com foco em Java no back-end e Angular no front-end. Atualmente estudo Java pela Fuctura Tecnologia (Recife) e pelo programa ONE (Oracle Next Education), em parceria com a Alura.
+
+<img src="https://lottie.host/3c8d3b2f-4a4e-4e2d-9d5e-6e9e3f3f3f3f/estudando.gif" width="400"/>
+
+---
 
 ### 🚀 Tecnologias em aprendizado e prática
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
